@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
 
 from setuptools import find_packages, setup
-readme="""Hi
-"""
+
+with open("README.md","r",encoding="utf-8-sig") as f:
+    readme = f.read()
 requirements=['pythainlp']
 
 setup(
