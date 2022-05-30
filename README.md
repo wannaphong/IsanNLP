@@ -6,7 +6,7 @@ The Isan NLP porject want to develop Northeastern local language tool for natura
 
 Isan NLP เป็นโครงการพัฒนาการประมวลผลภาษาท้องถิ่นของภาคตะวันออกเฉียงเหนือ
 
-ภาษาอีสานไม่มีจริง
+ภาษาอีสานไม่มีจริง - อ้างอิง [ไม่มีภาษาอีสานในโลกใบนี้ : อีสานใหม่](https://www.youtube.com/watch?v=lX0oriwGjdM)
 
 **สาเหตุที่พัฒนา** เพื่ออนุรักษ์ภาษาถิ่นในพื้นที่ภาคตะวันออกเฉียงเหนือของประเทศไทย
 
