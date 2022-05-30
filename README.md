@@ -18,4 +18,4 @@ Isan NLP เป็นโครงการพัฒนาการประม�
 
 ## Install
 
-> pip install https://github.com/wannaphong/LaoNLP/archive/refs/heads/master.zip
+> pip install https://github.com/wannaphong/IsanNLP/archive/refs/heads/master.zip
