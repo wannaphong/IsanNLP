@@ -15,7 +15,7 @@ def korat_list() -> List[str]:
 
 
 def nangrong_words():
-    df = pd.read_csv(os.path.join(corpus_path,"nangrong_words.txt"),sep=",")
+    df = pd.read_csv(os.path.join(corpus_path,"nangrong_words.csv"),sep=",")
     return df
 
 
