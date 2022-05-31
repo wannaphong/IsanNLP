@@ -4,7 +4,10 @@ from setuptools import find_packages, setup
 
 with open("README.md","r",encoding="utf-8-sig") as f:
     readme = f.read()
-requirements=['pythainlp']
+requirements=[
+    'pythainlp',
+    'pandas'
+]
 
 setup(
     name="IsanNLP",
