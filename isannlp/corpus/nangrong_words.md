@@ -1,5 +1,7 @@
 # NangRong Language
 
+NangRong Language is a local language that used in Nang Rong, Buriram Thailand. It looks like Korat language but the language are different accents and some words that are not in Korat language.
+
 ภาษานางรอง หรือ ภาษาถิ่นไทยนางรอง(ไทยเดิ้ง) เป็น ภาษาถิ่นของอำเภอนางรอง จังหวัดบุรีรัมย์ มีสำเนียงคล้ายภาษาถิ่นโคราช นิบมพูดกันมากที่สุดในเขตอำเภอนางรอง จังหวัดบุรีรัมย์
 
 คำขวัญอำเภอนางรอง "เมืองโบราณนานเนา. มะพร้าวเผา. น้ำตาลหวาน. ศาลหลักเมืองศักดิ์สิทธิ. เศรษฐกิจก้าวหน้า. ขาหมูรสดี. มีภาษานางรอง"
