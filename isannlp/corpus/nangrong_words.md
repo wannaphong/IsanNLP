@@ -33,3 +33,5 @@ NangRong Language is a local language that used in Nang Rong, Buriram Thailand. 
 ภาษาถิ่นนางรองเบื้องต้น โดย นักศึกษาโครงการครูคืนถิ่น ชั้นปีที่ 3 ปีการศึกษา 2563 (กลุ่มที่ 2). ค้นเมื่อ 19 เมษายน 2022, จาก https://anyflip.com/xiedn/avil
 
 หมวง = ข้อง != ฆ้อง https://web.facebook.com/photo/?fbid=347641242343094&set=pcb.1952371204976953
+
+สถานีนางรอง https://web.facebook.com/NangrongStation
